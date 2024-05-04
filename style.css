@@ -34,7 +34,8 @@ lottie-player {
 }
 .nav-item .nav-link {
     color: aquamarine !important;  
-    position: relative !important;  
+    position: relative !important;
+    font-family: 'FontAwesome';  
 }
 
 .nav-link::after {
